@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.opencsv:opencsv:5.3">
+    <archive path="/Users/eduard/.m2/repository/com/opencsv/opencsv/5.3/opencsv-5.3.jar" />
+    <archive path="/Users/eduard/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" />
+    <archive path="/Users/eduard/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar" />
+    <archive path="/Users/eduard/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar" />
+    <archive path="/Users/eduard/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+    <archive path="/Users/eduard/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
+    <archive path="/Users/eduard/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" />
+  </library>
+</eclipse-userlibraries>
+
